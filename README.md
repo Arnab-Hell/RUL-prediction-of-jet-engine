@@ -1,6 +1,9 @@
 # Jet Engine Remaining Useful Life (RUL) Prediction
 
-#### -- Project Status: Active
+![A320_engine](https://github.com/Arnab-Hell/RUL-prediction-of-jet-engine/assets/116137408/3ebf9816-9512-4498-b400-b833b6b1b8c6)
+
+
+#### Project Status: Active
 
 ## Project Intro/Objective
 The purpose of this project is to predict the remaining useful life (RUL) of jet engines using machine learning and deep learning, which will enable operators to adopt a proactive approach to maintenance, reduce costs, maximize asset utilization, enhance safety, optimize performance, and make data-driven decisions to ensure the reliable and efficient operation of their aircraft fleet. 
@@ -33,6 +36,10 @@ Aircraft engine maintenance strategies typically fall into several categories:
 3. Preventive Maintenance: Preventive maintenance involves preemptive actions taken to prevent failures or degradation of engine components. This can include tasks such as component replacements, overhauls, or adjustments performed at regular intervals to mitigate the risk of failures occurring during operation.
 4. Condition-Based Maintenance: Condition-based maintenance combines elements of both scheduled and on-condition maintenance approaches. Maintenance actions are scheduled based on the condition of engine components, as determined by real-time monitoring and analysis of sensor data. This allows for a more dynamic and adaptive maintenance strategy that responds to the actual operating conditions and health of the engine.
 5. Proactive Maintenance: Proactive maintenance aims to address potential issues before they escalate into significant problems. This can involve predictive techniques, proactive component replacements based on historical performance data, and implementing design changes or upgrades to improve reliability and performance.
+
+![maintenance_strategies](https://github.com/Arnab-Hell/RUL-prediction-of-jet-engine/assets/116137408/e52c187b-aa3f-40fa-9515-cf08d0b0a69d)
+
+
 In this context, traditional maintenance of jet engines can be challenging for several reasons:
 
 1. Complexity: Jet engines are intricate pieces of machinery with thousands of components, including rotating parts, compressors, turbines, and intricate fuel systems. Keeping track of all these components and ensuring they work together efficiently requires specialized knowledge and expertise.
